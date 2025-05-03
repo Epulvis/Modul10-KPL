@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using modul10_103022300057.Models;
 
 namespace modul10_103022300057.Controllers
 {

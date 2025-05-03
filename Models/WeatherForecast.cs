@@ -1,4 +1,4 @@
-namespace modul10_103022300057
+namespace modul10_103022300057.Models
 {
     public class WeatherForecast
     {
